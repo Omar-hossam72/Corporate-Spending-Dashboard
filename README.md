@@ -26,4 +26,4 @@ Freelance project to design and deliver an **interactive Power BI dashboard** fo
 ## Visual
 ![Corporate Spending Dashboard](./Corporate_spending_Dashboard.GIF)
 ## File
-[Download Corporate Spending Dashboard](./Transactions20%Dashboard.pbix)
+[Download Corporate Spending Dashboard](./Transactions%20Dashboard.pbix)
